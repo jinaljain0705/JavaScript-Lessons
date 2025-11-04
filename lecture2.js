@@ -1,3 +1,5 @@
+// Lesson:2 Variables & Data Types Explained(var, let, const, mutables).
+
 // how to create variable.
 
 // let name = "Jinal";
