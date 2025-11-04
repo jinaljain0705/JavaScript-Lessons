@@ -107,6 +107,8 @@ let s = function add(){
     console.log("Hello");
 }
 
+//s();
+
 console.log(typeof s);
 
 
